@@ -143,7 +143,8 @@ void Summon(int Summon_Times)
 
 		if (n == Summon_Times)
 		{
-			cout << "Santa quartz run out...." << endl;
+			cout << "Saint quartz run out...." << endl;
+			Trial = Summon_Times;
 		}
 
 	}
